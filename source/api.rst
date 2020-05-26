@@ -12,7 +12,7 @@ WebDriver API
 这一章包含所有的 Selenium WebDriver 接口.
 
 
-**Recommended Import Style**
+**推荐的导入方式**
 
 The API definitions in this chapter shows the absolute location of classes.
 However the recommended import style is as given below::
